@@ -6,6 +6,8 @@ function lutar(){
     if(!arma){
         log.innerHTML ="voce esqueceu de equipar uma arma"
 }
+let dado = Math.floor(Math.random()* 20) +1;
 
+0,453 *20 + 1;
 
 }
